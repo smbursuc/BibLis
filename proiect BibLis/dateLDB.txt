@@ -1,0 +1,28 @@
+CreareAleatorie
+-10 -11 -2 
+CreareAleatorie
+5 11 2 -6 
+CreareAleatorie
+-7 13 -1 2 5 
+CreareAleatorie
+13 14 5 -6 10 -14 10 -2 3 
+CreareAleatorie
+9 -7 0 -1 -5 16 -9 
+CreareAleatorie
+11 13 0 -14 -2 -3 -5 2 -6 -6 
+CreareAleatorie
+-4 0 1 -11 -12 13 
+CreareAleatorie
+3 8 0 -4 -7 1 0 0 -4 3 
+CreareAleatorie
+-5 1 10 -7 5 
+CreareAleatorie
+15 -7 -17 -3 -6 3 -18 -2 
+CreareAleatorie
+-2 -4 -5 7 15 -4 -1 
+CreareAleatorie
+12 2 -1 3 4 5 
+Eliminare in fata
+Eliminare in spate
+Eliminare in spate
+Eliminare in spate

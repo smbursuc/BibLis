@@ -1,0 +1,1106 @@
+# depslib dependency file v1.0
+1607619871 source:d:\c++\testproiect_1\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+
+1607536745 d:\c++\testproiect_1\biblib.h
+
+1607536745 source:d:\c++\testproiect_1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1607620191 source:d:\c++\testproiect_1\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+
+1607619988 d:\c++\testproiect_1\desstiv.h
+	"BibLib.h"
+
+1607536745 source:c:\users\ares\desktop\testproiect_1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1607536745 c:\users\ares\desktop\testproiect_1\biblib.h
+
+1607700512 source:c:\users\ares\desktop\testproiect_1\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+
+1607619988 c:\users\ares\desktop\testproiect_1\desstiv.h
+	"BibLib.h"
+
+1607619871 source:c:\users\ares\desktop\testproiect_1\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+
+1608042815 source:c:\users\rares\desktop\testproiect_2\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1608042815 c:\users\rares\desktop\testproiect_2\biblib.h
+
+1608650280 source:c:\users\rares\desktop\testproiect_2\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1608649797 c:\users\rares\desktop\testproiect_2\desstiv.h
+	"BibLib.h"
+
+1608649931 source:c:\users\rares\desktop\testproiect_2\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+
+1608650201 source:c:\users\rares\desktop\testproiect_2\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+
+1608650196 c:\users\rares\desktop\testproiect_2\desldb.h
+	"BibLib.h"
+
+1608650081 source:c:\users\rares\desktop\testproiect_2\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+
+1608650074 c:\users\rares\desktop\testproiect_2\descoad.h
+	"BibLib.h"
+
+1608662998 source:c:\users\rares\desktop\testproiect_2\ui.cpp
+	<graphics.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+
+1608660802 c:\users\rares\desktop\testproiect_2\ui.h
+	"BibLib.h"
+
+1608042815 source:c:\users\ares\desktop\peoiwectr\testproiect_2\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1608042815 c:\users\ares\desktop\peoiwectr\testproiect_2\biblib.h
+
+1608650081 source:c:\users\ares\desktop\peoiwectr\testproiect_2\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+
+1608650074 c:\users\ares\desktop\peoiwectr\testproiect_2\descoad.h
+	"BibLib.h"
+
+1609080953 source:c:\users\ares\desktop\peoiwectr\testproiect_2\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+
+1608650196 c:\users\ares\desktop\peoiwectr\testproiect_2\desldb.h
+	"BibLib.h"
+
+1608718352 source:c:\users\ares\desktop\peoiwectr\testproiect_2\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+
+1608649797 c:\users\ares\desktop\peoiwectr\testproiect_2\desstiv.h
+	"BibLib.h"
+
+1608650280 source:c:\users\ares\desktop\peoiwectr\testproiect_2\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609071438 c:\users\ares\desktop\peoiwectr\testproiect_2\ui.h
+	"BibLib.h"
+
+1609081210 source:c:\users\ares\desktop\peoiwectr\testproiect_2\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+
+1609171964 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\rares\desktop\testproiect_45\testproiect_42069\biblib.h
+
+1609169261 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1608650074 c:\users\rares\desktop\testproiect_45\testproiect_42069\descoad.h
+	"BibLib.h"
+
+1609169266 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1608650196 c:\users\rares\desktop\testproiect_45\testproiect_42069\desldb.h
+	"BibLib.h"
+
+1609169275 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1608649797 c:\users\rares\desktop\testproiect_45\testproiect_42069\desstiv.h
+	"BibLib.h"
+
+1609164832 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609169248 c:\users\rares\desktop\testproiect_45\testproiect_42069\ui.h
+	"BibLib.h"
+
+1609170403 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609170931 source:c:\users\rares\desktop\testproiect_45\testproiect_42069\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609166894 c:\users\rares\desktop\testproiect_45\testproiect_42069\deslissim.h
+	"BibLib.h"
+
+1609171964 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\ares\desktop\peoiwectr\testproiect_42069\biblib.h
+
+1609250839 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+	<iostream>
+
+1608650074 c:\users\ares\desktop\peoiwectr\testproiect_42069\descoad.h
+	"BibLib.h"
+
+1609169248 c:\users\ares\desktop\peoiwectr\testproiect_42069\ui.h
+	"BibLib.h"
+
+1609250839 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+	<windows.h>
+	<MMSystem.h>
+
+1608650196 c:\users\ares\desktop\peoiwectr\testproiect_42069\desldb.h
+	"BibLib.h"
+
+1609250839 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609250838 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1608649797 c:\users\ares\desktop\peoiwectr\testproiect_42069\desstiv.h
+	"BibLib.h"
+
+1609164832 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609250615 source:c:\users\ares\desktop\peoiwectr\testproiect_42069\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609166894 c:\users\ares\desktop\peoiwectr\testproiect_42069\deslissim.h
+	"BibLib.h"
+
+1609171964 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\ares\desktop\peoiwectr\proiect_29.12\biblib.h
+
+1609599327 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+	<iostream>
+
+1608650074 c:\users\ares\desktop\peoiwectr\proiect_29.12\descoad.h
+	"BibLib.h"
+
+1609169248 c:\users\ares\desktop\peoiwectr\proiect_29.12\ui.h
+	"BibLib.h"
+
+1609599359 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+	<windows.h>
+	<MMSystem.h>
+
+1608650196 c:\users\ares\desktop\peoiwectr\proiect_29.12\desldb.h
+	"BibLib.h"
+
+1609599723 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609599359 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1608649797 c:\users\ares\desktop\peoiwectr\proiect_29.12\desstiv.h
+	"BibLib.h"
+
+1609164832 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609257470 source:c:\users\ares\desktop\peoiwectr\proiect_29.12\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609166894 c:\users\ares\desktop\peoiwectr\proiect_29.12\deslissim.h
+	"BibLib.h"
+
+1609171964 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\ares\desktop\peoiwectr\proiect_2.1\biblib.h
+
+1609688813 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+	<iostream>
+
+1609687908 c:\users\ares\desktop\peoiwectr\proiect_2.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\peoiwectr\proiect_2.1\ui.h
+	"BibLib.h"
+
+1609685104 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+	<windows.h>
+	<MMSystem.h>
+
+1609690572 c:\users\ares\desktop\peoiwectr\proiect_2.1\desldb.h
+	"BibLib.h"
+
+1609688813 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1609688813 c:\users\ares\desktop\peoiwectr\proiect_2.1\desstiv.h
+	"BibLib.h"
+
+1609616869 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609684921 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609684543 c:\users\ares\desktop\peoiwectr\proiect_2.1\deslissim.h
+	"BibLib.h"
+
+1609685103 source:c:\users\ares\desktop\peoiwectr\proiect_2.1\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609171964 source:c:\users\rares\desktop\proiectv3\proiect_3.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\rares\desktop\proiectv3\proiect_3.1\biblib.h
+
+1609701843 source:c:\users\rares\desktop\proiectv3\proiect_3.1\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+	<iostream>
+
+1609687908 c:\users\rares\desktop\proiectv3\proiect_3.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\rares\desktop\proiectv3\proiect_3.1\ui.h
+	"BibLib.h"
+
+1609702843 source:c:\users\rares\desktop\proiectv3\proiect_3.1\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+	<windows.h>
+	<MMSystem.h>
+
+1609690572 c:\users\rares\desktop\proiectv3\proiect_3.1\desldb.h
+	"BibLib.h"
+
+1609702843 source:c:\users\rares\desktop\proiectv3\proiect_3.1\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609703001 source:c:\users\rares\desktop\proiectv3\proiect_3.1\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1609688813 c:\users\rares\desktop\proiectv3\proiect_3.1\desstiv.h
+	"BibLib.h"
+
+1609616869 source:c:\users\rares\desktop\proiectv3\proiect_3.1\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609684921 source:c:\users\rares\desktop\proiectv3\proiect_3.1\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609684543 c:\users\rares\desktop\proiectv3\proiect_3.1\deslissim.h
+	"BibLib.h"
+
+1609171964 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609166963 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\biblib.h
+
+1609701843 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\descoad.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+	<iostream>
+
+1609687908 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\ui.h
+	"BibLib.h"
+
+1609744913 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\desldb.cpp
+	"desLDB.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+	<windows.h>
+	<MMSystem.h>
+
+1609690572 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\desldb.h
+	"BibLib.h"
+
+1609702843 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\deslissim.cpp
+	"desCoad.h"
+	<graphics.h>
+	<winbgim.h>
+	"UI.h"
+
+1609703001 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\desstiv.cpp
+	"desStiv.h"
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	<iostream>
+	"UI.h"
+
+1609688813 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\desstiv.h
+	"BibLib.h"
+
+1609616869 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\main.cpp
+	<graphics.h>
+	<winbgim.h>
+	<iostream>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+
+1609684921 source:c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\ui.cpp
+	<graphics.h>
+	<winbgim.h>
+	"BibLib.h"
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<MMSystem.h>
+	"desLisSim.h"
+
+1609684543 c:\users\ares\desktop\peoiwectr\proiect_3.1_fixed\deslissim.h
+	"BibLib.h"
+
+1609780717 source:c:\users\rares\desktop\proiectv4\proiect_4.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609780717 c:\users\rares\desktop\proiectv4\proiect_4.1\biblib.h
+
+1609772695 source:c:\users\rares\desktop\proiectv4\proiect_4.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\rares\desktop\proiectv4\proiect_4.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\rares\desktop\proiectv4\proiect_4.1\ui.h
+	"BibLib.h"
+
+1609772501 source:c:\users\rares\desktop\proiectv4\proiect_4.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609690572 c:\users\rares\desktop\proiectv4\proiect_4.1\desldb.h
+	"BibLib.h"
+
+1609778900 source:c:\users\rares\desktop\proiectv4\proiect_4.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+	<iostream>
+
+1609772320 source:c:\users\rares\desktop\proiectv4\proiect_4.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609688813 c:\users\rares\desktop\proiectv4\proiect_4.1\desstiv.h
+	"BibLib.h"
+
+1609770888 source:c:\users\rares\desktop\proiectv4\proiect_4.1\main.cpp
+	<graphics.h>
+	"UI.h"
+
+1609780963 source:c:\users\rares\desktop\proiectv4\proiect_4.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\rares\desktop\proiectv4\proiect_4.1\deslissim.h
+	"BibLib.h"
+
+1609850348 source:c:\users\ares\desktop\test\asdfqwrq\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609780717 c:\users\ares\desktop\test\asdfqwrq\biblib.h
+
+1609772695 source:c:\users\ares\desktop\test\asdfqwrq\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\ares\desktop\test\asdfqwrq\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\test\asdfqwrq\ui.h
+	"BibLib.h"
+
+1609772501 source:c:\users\ares\desktop\test\asdfqwrq\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609690572 c:\users\ares\desktop\test\asdfqwrq\desldb.h
+	"BibLib.h"
+
+1609848140 source:c:\users\ares\desktop\test\asdfqwrq\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609772320 source:c:\users\ares\desktop\test\asdfqwrq\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609688813 c:\users\ares\desktop\test\asdfqwrq\desstiv.h
+	"BibLib.h"
+
+1609770888 source:c:\users\ares\desktop\test\asdfqwrq\main.cpp
+	<graphics.h>
+	"UI.h"
+
+1609780963 source:c:\users\ares\desktop\test\asdfqwrq\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\ares\desktop\test\asdfqwrq\deslissim.h
+	"BibLib.h"
+
+1610042881 source:c:\users\rares\desktop\proiectv5\proiect_5.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\rares\desktop\proiectv5\proiect_5.1\descoad.h
+	"BibLib.h"
+
+1609780717 c:\users\rares\desktop\proiectv5\proiect_5.1\biblib.h
+
+1609617836 c:\users\rares\desktop\proiectv5\proiect_5.1\ui.h
+	"BibLib.h"
+
+1610042841 source:c:\users\rares\desktop\proiectv5\proiect_5.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\rares\desktop\proiectv5\proiect_5.1\desldb.h
+	"BibLib.h"
+
+1610042922 source:c:\users\rares\desktop\proiectv5\proiect_5.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610042761 source:c:\users\rares\desktop\proiectv5\proiect_5.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\rares\desktop\proiectv5\proiect_5.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\rares\desktop\proiectv5\proiect_5.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1609946862 source:c:\users\rares\desktop\proiectv5\proiect_5.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\rares\desktop\proiectv5\proiect_5.1\deslissim.h
+	"BibLib.h"
+
+1609857435 source:c:\users\rares\desktop\proiectv5\proiect_5.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609857435 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609780717 c:\users\ares\desktop\peoiwectr\proiect_5.1\biblib.h
+
+1610054901 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\ares\desktop\peoiwectr\proiect_5.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\peoiwectr\proiect_5.1\ui.h
+	"BibLib.h"
+
+1610054901 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\ares\desktop\peoiwectr\proiect_5.1\desldb.h
+	"BibLib.h"
+
+1610054901 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610054901 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\ares\desktop\peoiwectr\proiect_5.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1609946862 source:c:\users\ares\desktop\peoiwectr\proiect_5.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\ares\desktop\peoiwectr\proiect_5.1\deslissim.h
+	"BibLib.h"
+
+1609857435 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1609780717 c:\users\ares\desktop\peoiwectr\proiect_7.1\biblib.h
+
+1610056808 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\ares\desktop\peoiwectr\proiect_7.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\peoiwectr\proiect_7.1\ui.h
+	"BibLib.h"
+
+1610056809 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\ares\desktop\peoiwectr\proiect_7.1\desldb.h
+	"BibLib.h"
+
+1610056911 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610056808 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\ares\desktop\peoiwectr\proiect_7.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1609946862 source:c:\users\ares\desktop\peoiwectr\proiect_7.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\ares\desktop\peoiwectr\proiect_7.1\deslissim.h
+	"BibLib.h"
+
+1610477954 source:c:\users\rares\desktop\proiectv8\proiect_8.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1610477954 c:\users\rares\desktop\proiectv8\proiect_8.1\biblib.h
+
+1610478534 source:c:\users\rares\desktop\proiectv8\proiect_8.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\rares\desktop\proiectv8\proiect_8.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\rares\desktop\proiectv8\proiect_8.1\ui.h
+	"BibLib.h"
+
+1610474514 source:c:\users\rares\desktop\proiectv8\proiect_8.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\rares\desktop\proiectv8\proiect_8.1\desldb.h
+	"BibLib.h"
+
+1610474616 source:c:\users\rares\desktop\proiectv8\proiect_8.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610474442 source:c:\users\rares\desktop\proiectv8\proiect_8.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\rares\desktop\proiectv8\proiect_8.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\rares\desktop\proiectv8\proiect_8.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1610478421 source:c:\users\rares\desktop\proiectv8\proiect_8.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\rares\desktop\proiectv8\proiect_8.1\deslissim.h
+	"BibLib.h"
+
+1610477954 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1610477954 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\biblib.h
+
+1610478534 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\descoad.h
+	"BibLib.h"
+
+1609617836 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\ui.h
+	"BibLib.h"
+
+1610540009 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\desldb.h
+	"BibLib.h"
+
+1610549807 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610474442 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1610478421 source:c:\users\ares\desktop\peoiwectr\final\proiect_8.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609780102 c:\users\ares\desktop\peoiwectr\final\proiect_8.1\deslissim.h
+	"BibLib.h"
+
+1610477954 source:c:\users\rares\desktop\final\final\proiect_8.1\biblib.cpp
+	"BibLib.h"
+	<stdlib.h>
+	<time.h>
+
+1610477954 c:\users\rares\desktop\final\final\proiect_8.1\biblib.h
+
+1610551926 source:c:\users\rares\desktop\final\final\proiect_8.1\desldb.cpp
+	"desLDB.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609946128 c:\users\rares\desktop\final\final\proiect_8.1\desldb.h
+	"BibLib.h"
+
+1609617836 c:\users\rares\desktop\final\final\proiect_8.1\ui.h
+	"BibLib.h"
+
+1610553476 source:c:\users\rares\desktop\final\final\proiect_8.1\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610551926 source:c:\users\rares\desktop\final\final\proiect_8.1\desstiv.cpp
+	"desStiv.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609857298 c:\users\rares\desktop\final\final\proiect_8.1\desstiv.h
+	"BibLib.h"
+
+1609855612 source:c:\users\rares\desktop\final\final\proiect_8.1\main.cpp
+	<graphics.h>
+	"UI.h"
+	<time.h>
+
+1610552543 source:c:\users\rares\desktop\final\final\proiect_8.1\ui.cpp
+	<winbgim.h>
+	"desStiv.h"
+	"desLDB.h"
+	"desCoad.h"
+	"UI.h"
+	"desLisSim.h"
+
+1609687908 c:\users\rares\desktop\final\final\proiect_8.1\descoad.h
+	"BibLib.h"
+
+1609780102 c:\users\rares\desktop\final\final\proiect_8.1\deslissim.h
+	"BibLib.h"
+
+1610551675 source:c:\users\rares\desktop\final\final\proiect_8.1\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1610551675 source:c:\users\ares\desktop\biblis\proiect biblis\descoad.cpp
+	"desCoad.h"
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
+1609687908 c:\users\ares\desktop\biblis\proiect biblis\descoad.h
+	"BibLib.h"
+
+1610554211 c:\users\ares\desktop\biblis\proiect biblis\biblib.h
+
+1609617836 c:\users\ares\desktop\biblis\proiect biblis\ui.h
+	"BibLib.h"
+
+1610553476 source:c:\users\ares\desktop\biblis\proiect biblis\deslissim.cpp
+	<winbgim.h>
+	"UI.h"
+	<fstream>
+
